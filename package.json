@@ -1,6 +1,6 @@
 {
   "name": "node_guru_spin",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "package for node monitoring lovers",
   "main": "index.js",
   "scripts": {
